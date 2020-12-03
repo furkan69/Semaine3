@@ -1,0 +1,83 @@
+body{
+    background: url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0px;
+}
+
+header{
+    background-color: white;
+    margin: 0px 0px 700px 0px;
+}
+nav li{
+    float: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 16px;
+}
+
+nav h1 {
+    float: left;
+    margin: 0px 0px 20px 10px;
+    font-size: 50px;
+
+}
+
+#fond{
+    background-color: white;
+    float: left;
+}
+
+img{
+    float: left;
+    width: 200px;
+}
+.paratur{
+    font-size: 20px ;
+}
+.paracro{
+    font-size: 20px;
+}
+.turquie{
+    background-color: orange;
+    margin: 10px 30px 30px 30px;
+    color: white;
+    border: solid black;
+}
+
+.Croatia{
+    background-color: orange;
+    margin: 10px 30px 30px 30px;
+    color: white;
+    border: solid black;
+}
+
+.croimg{
+    float: right;
+}
+
+.japimg{
+    float: right;
+}
+
+.japan{
+    background-color: orange;
+    margin: 10px 30px 30px 30px;
+    color: white;
+    border: solid black;
+}
+
+.parajap{
+    text-align: justify;
+    font-size: 20px;
+}
